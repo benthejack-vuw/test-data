@@ -1,5 +1,5 @@
 {
-  carousel: [
+  "carousel": [
     {
       "logo": "a_logo_url_1",
       "children": [
