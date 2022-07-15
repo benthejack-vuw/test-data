@@ -1,0 +1,198 @@
+{
+  "video": "a video url",
+  "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1.png",
+  "children": [
+    {
+      "video": "a video url",
+      "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-1.png",
+      "children": [
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-1-1.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-1-2.png",
+          "children": null
+        }
+      ]
+    },
+    {
+      "video": "a video url",
+      "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-2.png",
+      "children": [
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-2-1.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-2-2.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-2-3.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-2-4.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-2-5.png",
+          "children": null
+        }
+      ]
+    },
+    {
+      "video": "a video url",
+      "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-3.png",
+      "children": [
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-3-1.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-3-2.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-3-3.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-3-4.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-3-5.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-3-6.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-3-7.png",
+          "children": null
+        }
+      ]
+    },
+    {
+      "video": "a video url",
+      "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-4.png",
+      "children": [
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-4-1.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-4-2.png",
+          "children": null
+        }
+      ]
+    },
+    {
+      "video": "a video url",
+      "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-5.png",
+      "children": [
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-5-1.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-5-2.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-5-3.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-5-4.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-5-5.png",
+          "children": null
+        }
+      ]
+    },
+    {
+      "video": "a video url",
+      "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-6.png",
+      "children": [
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-6-1.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-6-2.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-6-3.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-6-4.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-6-5.png",
+          "children": null
+        }
+      ]
+    },
+    {
+      "video": "a video url",
+      "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-7.png",
+      "children": [
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-7-1.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-7-2.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-7-3.png",
+          "children": null
+        },
+        {
+          "video": "a video url",
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/images/1-7-4.png",
+          "children": null
+        }
+      ]
+    }
+  ]
+}
