@@ -1,6 +1,4 @@
 {
-  "children": [
-    {
       "children": [
         {
           "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_ADVANCED_MANUFACTURING.png",
@@ -108,6 +106,4 @@
           ]
         }
       ]
-    }
-  ]
 }
