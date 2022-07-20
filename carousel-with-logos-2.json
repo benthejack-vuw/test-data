@@ -1,0 +1,109 @@
+{
+      "children": [
+        {
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_ADVANCED_MANUFACTURING.png",
+          "video": "a_video_url",
+          "children": [
+            {
+                "video": "a video url",
+                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_ENEGY_01.png",
+                "children": null
+            },
+            {
+                "video": "a video url",
+                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_ENTERTAINMENT.png",
+                "children": null
+            },
+            {
+                "video": "a video url",
+                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_FINANCIAL_SERVICES.png",
+                "children": null
+            }
+          ]
+        },
+        {
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_BIOTECH.png",
+          "video": "a_video_url",
+          "children": [
+            {
+                "video": "a video url",
+                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_FOOD.png",
+                "children": null
+            },
+            {
+                "video": "a video url",
+                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_GEOGRAPHIC.png",
+                "children": null
+            },
+            {
+                "video": "a video url",
+                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_HEALTH_WELLBEING.png",
+                "children": null
+            }
+          ]
+        },
+        {
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_BUSINESS.png",
+          "video": "a_video_url",
+          "children": [
+            {
+                "video": "a video url",
+                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_LIVABILITY_SUSTAINABILITY.png",
+                "children": null
+            },
+            {
+                "video": "a video url",
+                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_MEDIA.png",
+                "children": null
+            },
+            {
+                "video": "a video url",
+                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_MOBILITY.png",
+                "children": null
+            }
+          ]
+        },
+        {
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_DESIGN_CONSTRUCTION.png",
+          "video": "a_video_url",
+          "children": [
+            {
+                "video": "a video url",
+                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_RESIDENTS.png",
+                "children": null
+            },
+            {
+                "video": "a video url",
+                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_SPORT.png",
+                "children": null
+            },
+            {
+                "video": "a video url",
+                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_TECHNOLOGY_DIGITAL.png",
+                "children": null
+            }
+          ]
+        },
+        {
+          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_EDUCATION.png",
+          "video": "a_video_url",
+          "children": [
+            {
+                "video": "a video url",
+                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_TOURISM.png",
+                "children": null
+            },
+            {
+                "video": "a video url",
+                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_WATER.png",
+                "children": null
+            },
+            {
+                "video": "a video url",
+                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_WEATHER.png",
+                "children": null
+            }
+          ]
+        }
+      ]
+}
