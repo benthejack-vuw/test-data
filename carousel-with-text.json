@@ -3,7 +3,7 @@
         {
           "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_ADVANCED_MANUFACTURING.png",
           "video": "a_video_url",
-          "text": "ADVANCED MANUFACTURING",
+          "text": "ADVANCED\nMANUFACTURING",
           "children": [
             {
                 "video": "a video url",
@@ -45,7 +45,7 @@
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_HEALTH_WELLBEING.png",
-                "text": "HEALTH WELLBEING",
+                "text": "HEALTH\nWELLBEING",
                 "children": null
             }
           ]
@@ -58,7 +58,7 @@
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_LIVABILITY_SUSTAINABILITY.png",
-                "text": "LIVABILITY SUSTAINABILITY",
+                "text": "LIVABILITY\nSUSTAINABILITY",
                 "children": null
             },
             {
@@ -78,7 +78,7 @@
         {
           "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_DESIGN_CONSTRUCTION.png",
           "video": "a_video_url",
-          "text": "DESIGN CONSTRUCTION",
+          "text": "DESIGN\nCONSTRUCTION",
           "children": [
             {
                 "video": "a video url",
@@ -95,7 +95,7 @@
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_TECHNOLOGY_DIGITAL.png",
-                "text": "TECHNOLOGY DIGITAL",
+                "text": "TECHNOLOGY\nDIGITAL",
                 "children": null
             }
           ]
