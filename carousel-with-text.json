@@ -8,19 +8,19 @@
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_ENEGY_01.png",
-                "text": "EDUCATION",
+                "text": "ENEGY",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_ENTERTAINMENT.png",
-                "text": "EDUCATION",
+                "text": "ENTERTAINMENT",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_FINANCIAL_SERVICES.png",
-                "text": "EDUCATION",
+                "text": "SERVICES",
                 "children": null
             }
           ]
@@ -33,19 +33,19 @@
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_FOOD.png",
-                "text": "EDUCATION",
+                "text": "FOOD",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_GEOGRAPHIC.png",
-                "text": "EDUCATION",
+                "text": "GEOGRAPHIC",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_HEALTH_WELLBEING.png",
-                "text": "EDUCATION",
+                "text": "HEALTH WELLBEING",
                 "children": null
             }
           ]
@@ -58,19 +58,19 @@
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_LIVABILITY_SUSTAINABILITY.png",
-                "text": "EDUCATION",
+                "text": "LIVABILITY SUSTAINABILITY",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_MEDIA.png",
-                "text": "EDUCATION",
+                "text": "MEDIA",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_MOBILITY.png",
-                "text": "EDUCATION",
+                "text": "MOBILITY",
                 "children": null
             }
           ]
@@ -83,19 +83,19 @@
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_RESIDENTS.png",
-                "text": "EDUCATION",
+                "text": "RESIDENTS",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_SPORT.png",
-                "text": "EDUCATION",
+                "text": "SPORT",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_TECHNOLOGY_DIGITAL.png",
-                "text": "EDUCATION",
+                "text": "TECHNOLOGY DIGITAL",
                 "children": null
             }
           ]
@@ -108,19 +108,19 @@
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_TOURISM.png",
-                "text": "EDUCATION",
+                "text": "TOURISM",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_WATER.png",
-                "text": "EDUCATION",
+                "text": "WATER",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_WEATHER.png",
-                "text": "EDUCATION",
+                "text": "WEATHER",
                 "children": null
             }
           ]
