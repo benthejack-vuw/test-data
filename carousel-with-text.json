@@ -3,21 +3,24 @@
         {
           "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_ADVANCED_MANUFACTURING.png",
           "video": "a_video_url",
-          "text": "energy",
+          "text": "ADVANCED MANUFACTURING",
           "children": [
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_ENEGY_01.png",
+                "text": "EDUCATION",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_ENTERTAINMENT.png",
+                "text": "EDUCATION",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_FINANCIAL_SERVICES.png",
+                "text": "EDUCATION",
                 "children": null
             }
           ]
@@ -25,20 +28,24 @@
         {
           "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_BIOTECH.png",
           "video": "a_video_url",
+          "text": "BIOTECH",
           "children": [
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_FOOD.png",
+                "text": "EDUCATION",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_GEOGRAPHIC.png",
+                "text": "EDUCATION",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_HEALTH_WELLBEING.png",
+                "text": "EDUCATION",
                 "children": null
             }
           ]
@@ -46,20 +53,24 @@
         {
           "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_BUSINESS.png",
           "video": "a_video_url",
+          "text": "BUSINESS",
           "children": [
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_LIVABILITY_SUSTAINABILITY.png",
+                "text": "EDUCATION",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_MEDIA.png",
+                "text": "EDUCATION",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_MOBILITY.png",
+                "text": "EDUCATION",
                 "children": null
             }
           ]
@@ -67,20 +78,24 @@
         {
           "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_DESIGN_CONSTRUCTION.png",
           "video": "a_video_url",
+          "text": "DESIGN CONSTRUCTION",
           "children": [
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_RESIDENTS.png",
+                "text": "EDUCATION",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_SPORT.png",
+                "text": "EDUCATION",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_TECHNOLOGY_DIGITAL.png",
+                "text": "EDUCATION",
                 "children": null
             }
           ]
@@ -88,20 +103,24 @@
         {
           "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_EDUCATION.png",
           "video": "a_video_url",
+          "text": "EDUCATION",
           "children": [
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_TOURISM.png",
+                "text": "EDUCATION",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_WATER.png",
+                "text": "EDUCATION",
                 "children": null
             },
             {
                 "video": "a video url",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_WEATHER.png",
+                "text": "EDUCATION",
                 "children": null
             }
           ]
