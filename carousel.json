@@ -2,6 +2,7 @@
       "children": [
         {
           "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_ADVANCED_MANUFACTURING.png",
+          "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
           "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
           "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
           "text": "ADVANCED\nMANUFACTURING",
@@ -10,6 +11,7 @@
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_ENEGY_01.png",
+                "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
                 "text": "ENEGY",
                 "children": null
             },
@@ -17,6 +19,7 @@
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-2.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-2.mp4",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_ENTERTAINMENT.png",
+                 "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
                 "text": "ENTERTAINMENT",
                 "children": null
             },
@@ -24,6 +27,7 @@
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-3.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-3.mp4",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_FINANCIAL_SERVICES.png",
+                 "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
                 "text": "SERVICES",
                 "children": null
             }
@@ -33,12 +37,14 @@
           "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_BIOTECH.png",
           "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-2.mp4",
           "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-2.mp4",
+          "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
           "text": "BIOTECH",
           "children": [
             {
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_FOOD.png",
+                "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
                 "text": "FOOD",
                 "children": null
             },
@@ -46,6 +52,7 @@
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-2.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-2.mp4",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_GEOGRAPHIC.png",
+                "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
                 "text": "GEOGRAPHIC",
                 "children": null
             },
@@ -53,6 +60,7 @@
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-3.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-3.mp4",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_HEALTH_WELLBEING.png",
+                "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
                 "text": "HEALTH\nWELLBEING",
                 "children": null
             }
@@ -62,12 +70,14 @@
           "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_BUSINESS.png",
           "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-3.mp4",
           "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-3.mp4",
+          "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
           "text": "BUSINESS",
           "children": [
             {
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_LIVABILITY_SUSTAINABILITY.png",
+                "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
                 "text": "LIVABILITY\nSUSTAINABILITY",
                 "children": null
             },
@@ -75,6 +85,7 @@
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-2.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-2.mp4",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_MEDIA.png",
+                "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
                 "text": "MEDIA",
                 "children": null
             },
@@ -82,6 +93,7 @@
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-3.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-3.mp4",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_MOBILITY.png",
+                "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
                 "text": "MOBILITY",
                 "children": null
             }
@@ -91,12 +103,14 @@
           "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_DESIGN_CONSTRUCTION.png",
           "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-4.mp4",
           "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-4.mp4",
+          "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
           "text": "DESIGN\nCONSTRUCTION",
           "children": [
             {
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_RESIDENTS.png",
+                "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
                 "text": "RESIDENTS",
                 "children": null
             },
@@ -104,6 +118,7 @@
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-2.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-2.mp4",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_SPORT.png",
+                "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
                 "text": "SPORT",
                 "children": null
             },
@@ -111,6 +126,7 @@
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-3.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-3.mp4",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_TECHNOLOGY_DIGITAL.png",
+                "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
                 "text": "TECHNOLOGY\nDIGITAL",
                 "children": null
             }
@@ -120,12 +136,14 @@
           "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_EDUCATION.png",
           "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-5.mp4",
           "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-5.mp4",
+          "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
           "text": "EDUCATION",
           "children": [
             {
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_TOURISM.png",
+                "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
                 "text": "TOURISM",
                 "children": null
             },
@@ -133,6 +151,7 @@
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-2.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-2.mp4",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_WATER.png",
+                "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
                 "text": "WATER",
                 "children": null
             },
@@ -140,6 +159,7 @@
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-3.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-3.mp4",
                 "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_WEATHER.png",
+                "lensVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/alpha_radar_notchlc_alpha",
                 "text": "WEATHER",
                 "children": null
             }
