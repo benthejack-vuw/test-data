@@ -41,7 +41,7 @@
           "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_BIOTECH.png",
           "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-2.mp4",
           "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-2.mp4",
-          "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
+          "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-2.mov",
           "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
           "text": "BIOTECH",
           "children": [
@@ -78,7 +78,7 @@
           "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_BUSINESS.png",
           "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-3.mp4",
           "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-3.mp4",
-          "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
+          "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-3.mov",
           "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
           "text": "BUSINESS",
           "children": [
@@ -115,7 +115,7 @@
           "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_DESIGN_CONSTRUCTION.png",
           "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-4.mp4",
           "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-4.mp4",
-          "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
+          "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-4.mov",
           "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
           "text": "DESIGN\nCONSTRUCTION",
           "children": [
@@ -152,7 +152,7 @@
           "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_EDUCATION.png",
           "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-5.mp4",
           "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-5.mp4",
-          "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
+          "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-5.mov",
           "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
           "text": "EDUCATION",
           "children": [
