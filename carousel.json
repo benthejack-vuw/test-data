@@ -1,186 +1,131 @@
 {
       "children": [
         {
-          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_ADVANCED_MANUFACTURING.png",
-          "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
-          "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
+          "selectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Design_Construction_Logo.png",
+          "unselectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Design_Construction_Logo_DARK.png",
+          "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Education_Logo_Trigger.mov",
+          "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
           "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
           "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
-          "text": "ADVANCED\nMANUFACTURING",
+          "text": "DESIGN\nCONSTRUCTION",
           "children": [
             {
+                "selectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Tech_Design_Logo.png",
+                "unselectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Tech_Design_Logo_DARK.png",
+                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Education_Logo_Trigger.mov",
+                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
-                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_ENEGY_01.png",
-                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
-                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
-                "text": "ENEGY",
+                "text": "TECH\nDESIGN",
                 "children": null
             },
             {
-                "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-2.mp4",
-                "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-2.mp4",
-                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_ENTERTAINMENT.png",
-                 "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
-                 "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
+                "selectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Education_Logo.png",
+                "unselectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Education_Logo_DARK.png",
+                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Education_Logo_Trigger.mov",
+                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
+                "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
+                "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
+                "text": "EDUCATION",
+                "children": null
+            }
+          ]
+        },
+       
+
+        {
+          "selectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Energy_Logo.png",
+          "unselectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Energy_Logo_DARK.png",
+          "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Education_Logo_Trigger.mov",
+          "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
+          "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
+          "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
+          "text": "ENERGY",
+          "children": [
+            {
+                "selectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Entertainment_Logo.png",
+                "unselectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Education_Logo_DARK.png",
+                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Education_Logo_Trigger.mov",
+                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
+                "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
+                "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
                 "text": "ENTERTAINMENT",
                 "children": null
             },
             {
-                "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-3.mp4",
-                "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-3.mp4",
-                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_FINANCIAL_SERVICES.png",
-                 "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
-                 "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
-                "text": "SERVICES",
+                "selectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Financial_Logo.png",
+                "unselectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Financial_Logo_DARK.png",
+                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Education_Logo_Trigger.mov",
+                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
+                "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
+                "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
+                "text": "FINANCIAL",
                 "children": null
             }
           ]
         },
+
+
         {
-          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_BIOTECH.png",
-          "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-2.mp4",
-          "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-2.mp4",
-          "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-2.mov",
-          "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
-          "text": "BIOTECH",
+          "selectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Food_Logo.png",
+          "unselectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Food_Logo_DARK.png",
+          "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Education_Logo_Trigger.mov",
+          "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
+          "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
+          "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
+          "text": "FOOD",
           "children": [
             {
+                "selectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Manufacturing_Logo.png",
+                "unselectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Manufacturing_Logo_DARK.png",
+                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Education_Logo_Trigger.mov",
+                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
-                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_FOOD.png",
-                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
-                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
-                "text": "FOOD",
+                "text": "MANUFACTURING",
                 "children": null
             },
             {
-                "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-2.mp4",
-                "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-2.mp4",
-                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_GEOGRAPHIC.png",
-                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
-                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
-                "text": "GEOGRAPHIC",
-                "children": null
-            },
-            {
-                "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-3.mp4",
-                "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-3.mp4",
-                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_HEALTH_WELLBEING.png",
-                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
-                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
-                "text": "HEALTH\nWELLBEING",
-                "children": null
-            }
-          ]
-        },
-        {
-          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_BUSINESS.png",
-          "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-3.mp4",
-          "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-3.mp4",
-          "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-3.mov",
-          "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
-          "text": "BUSINESS",
-          "children": [
-            {
+                "selectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Media_Logo.png",
+                "unselectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Media_Logo_DARK.png",
+                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Education_Logo_Trigger.mov",
+                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
-                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_LIVABILITY_SUSTAINABILITY.png",
-                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
-                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
-                "text": "LIVABILITY\nSUSTAINABILITY",
-                "children": null
-            },
-            {
-                "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-2.mp4",
-                "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-2.mp4",
-                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_MEDIA.png",
-                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
-                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
                 "text": "MEDIA",
                 "children": null
-            },
-            {
-                "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-3.mp4",
-                "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-3.mp4",
-                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_MOBILITY.png",
-                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
-                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
-                "text": "MOBILITY",
-                "children": null
             }
           ]
         },
+
+
         {
-          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_DESIGN_CONSTRUCTION.png",
-          "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-4.mp4",
-          "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-4.mp4",
-          "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-4.mov",
-          "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
-          "text": "DESIGN\nCONSTRUCTION",
+          "selectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Mobility_Logo.png",
+          "unselectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Mobility_Logo_DARK.png",
+          "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Education_Logo_Trigger.mov",
+          "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
+          "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
+          "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
+          "text": "MOBILITY",
           "children": [
             {
+                "selectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Sport_Logo.png",
+                "unselectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Sport_Logo_DARK.png",
+                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Education_Logo_Trigger.mov",
+                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
-                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_RESIDENTS.png",
-                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
-                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
-                "text": "RESIDENTS",
-                "children": null
-            },
-            {
-                "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-2.mp4",
-                "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-2.mp4",
-                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_SPORT.png",
-                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
-                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
                 "text": "SPORT",
                 "children": null
             },
             {
-                "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-3.mp4",
-                "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-3.mp4",
-                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_TECHNOLOGY_DIGITAL.png",
-                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
-                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
-                "text": "TECHNOLOGY\nDIGITAL",
-                "children": null
-            }
-          ]
-        },
-        {
-          "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_EDUCATION.png",
-          "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-5.mp4",
-          "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-5.mp4",
-          "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-5.mov",
-          "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
-          "text": "EDUCATION",
-          "children": [
-            {
+                "selectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Tourism_Logo.png",
+                "unselectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Tourism_Logo_DARK.png",
+                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Education_Logo_Trigger.mov",
+                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
-                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_TOURISM.png",
-                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
-                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
                 "text": "TOURISM",
-                "children": null
-            },
-            {
-                "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-2.mp4",
-                "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-2.mp4",
-                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_WATER.png",
-                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
-                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
-                "text": "WATER",
-                "children": null
-            },
-            {
-                "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-3.mp4",
-                "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-3.mp4",
-                "image": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/NEON_SECTOR_ICONS_WEATHER.png",
-                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select.mov",
-                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/water-select-children.mov",
-                "text": "WEATHER",
                 "children": null
             }
           ]
