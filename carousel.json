@@ -28,7 +28,18 @@
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
                 "text": "EDUCATION",
                 "children": null
-            }
+            },
+            {
+              "selectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Design_Construction_Logo.png",
+              "unselectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Design_Construction_Logo_DARK.png",
+              "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Design_Construction_Trigger.mov",
+              "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
+              "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
+              "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
+              "text": "DESIGN\nCONSTRUCTION",
+              "children": null
+            },
+            
           ]
         },
        
@@ -61,7 +72,17 @@
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
                 "text": "FINANCIAL",
                 "children": null
-            }
+            },
+            {
+              "selectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Energy_Logo.png",
+              "unselectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Energy_Logo_DARK.png",
+              "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Energy_Logo_Trigger.mov",
+              "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
+              "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
+              "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
+              "text": "ENERGY",
+              "children": null
+            },
           ]
         },
 
@@ -94,7 +115,17 @@
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
                 "text": "MEDIA",
                 "children": null
-            }
+            },
+            {
+              "selectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Food_Logo.png",
+              "unselectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Food_Logo_DARK.png",
+              "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Food_Logo_Trigger.mov",
+              "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
+              "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
+              "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
+              "text": "FOOD",
+              "children": null
+          }
           ]
         },
 
@@ -126,6 +157,16 @@
                 "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
                 "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
                 "text": "TOURISM",
+                "children": null
+            },
+            {
+                "selectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Mobility_Logo.png",
+                "unselectedLogo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/Mobility_Logo_DARK.png",
+                "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Mobility_Logo_Trigger.mov",
+                "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
+                "wallVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Wall/WALL-1.mp4",
+                "floorVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/Floor/FLOOR-1.mp4",
+                "text": "MOBILITY",
                 "children": null
             }
           ]
