@@ -93,7 +93,7 @@
           "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Food_Logo_Trigger.mov",
           "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
           "wallVideo": "LED_Wall_Assets/5202_Proxy_Wall_Mobility_Sector_Vid_GJM_v01.mov",
-          "floorVideo": "LED_Floor_Assets/",
+          "floorVideo": "LED_Floor_Assets/5202_Proxy_Floor_Mobility_Sector_Vid_GJM_v01.mov",
           "text": "FOOD",
           "children": [
             {
@@ -136,7 +136,7 @@
           "selectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/selection_videos/Mobility_Logo_Trigger.mov",
           "subSelectionVideo": "https://raw.githubusercontent.com/benthejack-vuw/test-data/main/logos/subselection_videos/Default_Logo_Subselection.mov",
           "wallVideo": "LED_Wall_Assets/5202_Proxy_Wall_Tourism_Sector_Vid_GJM_v01.mov",
-          "floorVideo": "LED_Floor_Assets/",
+          "floorVideo": "LED_Floor_Assets/5202_Proxy_Floor_Tourism_Sector_Vid_GJM_v01.mov",
           "text": "MOBILITY",
           "children": [
             {
